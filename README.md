@@ -6,3 +6,10 @@ Aku mengikuti SIB Kampus Merdeka bersama Dicoding Indonesia untuk mendapatkan ke
 Ayo terhubung denganku melalui platform lain:
 * [LinkedIn](https://linkedin.com/in/rizkyalfito)
 * [Instagram](https://instagram.com/ikyalfito)
+
+<p align="left">
+<a href="https://github.com/rizkyalfito">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizkyalfito&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizkyalfito&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
